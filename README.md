@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/101063732/205513604-98d04ecd-733e-4164-a003-100b479f1af2.jpg" alt="banner">
+<img src="https://user-images.githubusercontent.com/101063732/205514449-d933a738-c68e-408c-90dc-da5cfe19f38f.jpg" alt="banner">
 
 <p align="center">Hi There, I'm Mohammad<p>
 
