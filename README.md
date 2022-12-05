@@ -8,10 +8,9 @@
 
 <h3>🤝 Connect with me</h3>
 
-<a href="www.linkedin.com/in/bahmani20/"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/101063732/205533756-307fc820-5e03-4580-b915-17a9b5b8c81d.png" width="20px" height="20px"></a>
-<a href="facebook.com/mohammad.mandegar11"><img alt="Facebook" src="https://user-images.githubusercontent.com/101063732/205533655-ec97cff1-9bb9-4887-a69a-245957f367b1.png" width="20px" height="20px"></a>
-<a href="www.twitter.com/mandegar363"><img alt="Twitter" src="https://user-images.githubusercontent.com/101063732/205533811-3ee66d03-5800-4c3b-86e3-4d08c465da2b.png" width="20px" height="20px"></a>
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="www.linkedin.com/in/bahmani20/"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/101063732/205533756-307fc820-5e03-4580-b915-17a9b5b8c81d.png" width="30px" height="30px"></a>
+<a href="facebook.com/mohammad.mandegar11"><img alt="Facebook" src="https://user-images.githubusercontent.com/101063732/205533655-ec97cff1-9bb9-4887-a69a-245957f367b1.png" width="30px" height="30px"></a>
+<a href="www.twitter.com/mandegar363"><img alt="Twitter" src="https://user-images.githubusercontent.com/101063732/205533811-3ee66d03-5800-4c3b-86e3-4d08c465da2b.png" width="30px" height="30px"></a>
 
  <h3>🔭I'm currently Working on... </h3>
     <ul>
