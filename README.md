@@ -2,15 +2,15 @@
 
 <p align="center">Hi There, I'm Mohammad</p>
 
-<h1 style="text-weight:900;" align="center">I am a Junior Front-end developer💻</h1>
+<h1 style="text-weight:900;" align="center">I am a Student, Developer💻 and Teacher</h1>
 
 <p>Designing and Developing fabulous websites are what I love and spend most of my valueable time on them. I think am an Artist who can paint Monalisas in the web</p>
 
 <h3>🤝 Connect with me</h3>
 
-<a href="www.linkedin.com/in/bahmani20/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mohammadmandegar2019@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="www.twitter.com/mandegar363"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="www.linkedin.com/in/bahmani20/"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/101063732/205533756-307fc820-5e03-4580-b915-17a9b5b8c81d.png"></a>
+<a href="facebook.com/mohammad.mandegar11"><img alt="Facebook" src="https://user-images.githubusercontent.com/101063732/205533655-ec97cff1-9bb9-4887-a69a-245957f367b1.png"></a>
+<a href="www.twitter.com/mandegar363"><img alt="Twitter" src="https://user-images.githubusercontent.com/101063732/205533811-3ee66d03-5800-4c3b-86e3-4d08c465da2b.png"></a>
 
  <h3>🔭I'm currently Working on... </h3>
     <ul>
@@ -23,8 +23,9 @@
 </ul>
     <h3>🌲I'm currently learning... </h3>
     <ul>
-        <li>ReactJS</li>
-        <li>NextJs</li>
+        <li>I'm currently learning everything😁<li>
+        <li>2022 Goal: work more with ReactJS<li>
+        <li>I love NextJs</li>
         <li>Redux</li>
        
 </ul>
