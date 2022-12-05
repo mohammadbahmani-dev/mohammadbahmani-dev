@@ -12,6 +12,23 @@
 <a href="mohammadmandegar2019@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="www.twitter.com/mandegar363"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
+ <h3>🔭I'm currently Working on... </h3>
+    <ul>
+        <li>My old projects</li>
+        <li>Personal Portfolio</li>
+        <li>Food Order App in React</li>
+        <li>Redux</li>
+        <li>JavaScript Projects</li>
+       
+</ul>
+    <h3>🌲I'm currently learning... </h3>
+    <ul>
+        <li>ReactJS</li>
+        <li>NextJs</li>
+        <li>Redux</li>
+       
+</ul>
+
 <h3>💼Technical Skills</h3>
 
 <small>Code</small>
