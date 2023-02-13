@@ -26,8 +26,7 @@
         <li>I'm currently learning everything😁<li>
         <li>2022 Goal: work more with ReactJS<li>
         <li>I love NextJs</li>
-        <li>Redux</li>
-       
+ <li>Redux</li>
 </ul>
 
 <h3>💼Technical Skills</h3>
