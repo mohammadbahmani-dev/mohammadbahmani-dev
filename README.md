@@ -2,7 +2,7 @@
 
 <p align="center">Hi There, I'm Mohammad</p>
 
-<h1 style="text-weight:900;" align="center">I am a Frontend Developer💻 </h1>
+<h1 style="text-weight:900;" align="center">I am a Full Stack Developer💻 </h1>
 
 <p>Designing and Developing fabulous websites are what I love and spend most of my valueable time on them. I think am an Artist who can paint Monalisas in the web</p>
 
@@ -19,6 +19,7 @@
         <li>Food Order App in React</li>
         <li>Redux</li>
         <li>JavaScript Projects</li>
+  <li>Node js Projects</li>
        
 </ul>
     <h3>🌲I'm currently learning... </h3>
