@@ -24,10 +24,10 @@
 </ul>
     <h3>🌲I'm currently learning... </h3>
     <ul>
-        <li>I'm currently learning everything😁<li>
-        <li>2022 Goal: work more with ReactJS<li>
+        <li>I'm currently learning everything😁</li>
+        <li>2023 Goal: work more with ExpressJS and other new technologies</li>
         <li>I love NextJs</li>
- <li>Redux</li>
+         <li>Redux</li>
 </ul>
 
 <h3>💼Technical Skills</h3>
