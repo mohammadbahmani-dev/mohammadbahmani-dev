@@ -55,6 +55,6 @@
 
 <h3>📈Github Stats</h3>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mandegar20)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mohammadbahmani-dev)](https://github.com/yushi1007)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandegar20&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbahmani-dev&layout=compact)](https://github.com/yushi1007)
