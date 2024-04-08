@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">Passionate Software Developer | Building Innovative Solutions</h3>
+<h3 align="center">Passionate Software Engineer | Building Innovative Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadbahmani-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadbahmani-dev" /> </p>
 
