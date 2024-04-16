@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadbahmani-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadbahmani-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadbahmani-dev" alt="mohammadbahmani-dev" /></a> </p>
+
 
 - 🔭 I’m currently working on **my portfolio**
 
