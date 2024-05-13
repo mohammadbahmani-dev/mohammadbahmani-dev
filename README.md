@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **an open source project**
 
-- 👨‍💻 All of my projects are available at [https://mohammadbahmani-dev.github.io/My-Portfolio/](https://mohammadbahmani.vercel.app)
+- 👨‍💻 All of my projects are available at (https://mohammadbahmani.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@mohammadmandegar2019/solid-principles-a-must-know-for-all-developers-13431ae5f7c6](https://medium.com/@mohammadmandegar2019/solid-principles-a-must-know-for-all-developers-13431ae5f7c6)
 
