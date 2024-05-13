@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **open source projects**
 
-- 🌱 I’m currently learning **Nestjs and PostgreSql**
+- 🌱 I’m currently learning **Devops **
 
 - 👯 I’m looking to collaborate on **an open source project**
 
-- 👨‍💻 All of my projects are available at [https://mohammadbahmani-dev.github.io/My-Portfolio/](https://mohammadbahmani-dev.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://mohammadbahmani-dev.github.io/My-Portfolio/](https://mohammadbahmani.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@mohammadmandegar2019/solid-principles-a-must-know-for-all-developers-13431ae5f7c6](https://medium.com/@mohammadmandegar2019/solid-principles-a-must-know-for-all-developers-13431ae5f7c6)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mohammadmandegar2019@gmail.com**
 
-- 📄 Know about my experiences [https://mohammadbahmani-dev.github.io/My-Portfolio/](https://mohammadbahmani-dev.github.io/My-Portfolio/)
+- 📄 Know about my experiences [(https://mohammadbahmani.vercel.app/portfolio))
 
 - ⚡ Fun fact **I really love watching and playing soccer**
 
